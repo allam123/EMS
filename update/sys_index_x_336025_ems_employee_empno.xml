@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>empno</col_name_string>
+        <index_col_name element="empno" name="x_336025_ems_employee">419e8f9ddb213300fe07eb41ca9619cb</index_col_name>
+        <logical_table_name>x_336025_ems_employee</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-05-20 16:43:17</sys_created_on>
+        <sys_id>89201311db613300fe07eb41ca961988</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_336025_ems_employee</sys_name>
+        <sys_package display_value="Employee Management System" source="x_336025_ems">667c835ddb213300fe07eb41ca96195f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Management System">667c835ddb213300fe07eb41ca96195f</sys_scope>
+        <sys_update_name>sys_index_x_336025_ems_employee_empno</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-20 16:43:17</sys_updated_on>
+        <table display_value="Employee" name="x_336025_ems_employee">1c9e0f1ddb213300fe07eb41ca9619d8</table>
+        <unique_index>true</unique_index>
+    </sys_index>
+</record_update>
